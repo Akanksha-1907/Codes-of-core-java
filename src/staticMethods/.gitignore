@@ -1,0 +1,91 @@
+allure-results/
+screenshots/
+screenshot/
+test-output/
+build/
+application.log
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+activityLog.log
+##############################
+## Maven
+##############################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsbackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency_reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+##############################
+##IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+##############################
+##Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+## OS X
+##############################
+.DS_Store
+ .Ld2VirtualBox/
+        .bash_history
+        .cache/
+        .eclipse/
+        .gitconfig
+        .p2/
+        .viminfo
+        3D Objects/
+        AppData/
+        Contacts/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        IntelGraphicsProfiles/
+        Links/
+        Music/
+        NPProt.bkp
+        NPProt.exe
+        NTUSER.DAT
+        NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Pictures/
+        Saved Games/
+         Videos/
+        eclipse-workspace/
+        eclipse/
+         ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
